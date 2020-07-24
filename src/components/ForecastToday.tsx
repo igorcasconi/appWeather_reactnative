@@ -90,7 +90,7 @@ const ForecastToday = () =>  {
 
                             <View style={styles.tempsPressaoHumidade}>
                                 <Text style={styles.textTempInfo}>Pressão:  { parseInt(dados.pressao) } hPa</Text>
-                                <Text style={styles.textTempInfo}>Humidade: { parseInt(dados.humidade) }%</Text>
+                                <Text style={styles.textTempInfo}>Humidade: { parseInt(dados.umidade) }%</Text>
                             </View>  
 
                         </View> 

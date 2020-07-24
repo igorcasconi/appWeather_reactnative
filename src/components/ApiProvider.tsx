@@ -16,7 +16,7 @@ export const ApiProvider = ({ children }) => {
         minima: 0,
         maxima: 0,
         pressao: 0,
-        humidade: 0,
+        umidade: 0,
         cidade: '',
         sunrise: 0,
         sunset: 0
@@ -49,7 +49,7 @@ export const ApiProvider = ({ children }) => {
                             minima: response.data.main.temp_min,
                             maxima: response.data.main.temp_max,
                             pressao: response.data.main.pressure,
-                            humidade: response.data.main.humidity,
+                            umidade: response.data.main.humidity,
                             cidade: response.data.name,
                             sunrise: response.data.sys.sunrise,
                             sunset: response.data.sys.sunset,
