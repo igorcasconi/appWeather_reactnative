@@ -14,7 +14,8 @@
 - Botão atualizar dados no topo da tela
 
 ## Imagens do aplicativo
-![]('./src/assets/imagem1.jpeg')
+<img src="./src/assets/imagem1.jpeg">
+![]()
 ![]('./src/assets/imagem2.jpeg')
 
 ## Tecnologia
