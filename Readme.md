@@ -15,8 +15,8 @@
 - Lista Horizontal com informações dos próximos 5 dias a cada 3 horas
 
 ## Imagens do aplicativo
-<img src="./src/assets/imagem1.jpeg" widht="200px" height="400px">
-<img src="./src/assets/imagem2.jpeg" widht="200px" height="400px">
+<img src="./src/assets/imagem1.jpeg" widht="200px" height="400px"><img src="./src/assets/imagem2.jpeg" widht="200px" height="400px">
+
 
 ## Tecnologia
 - React Native com TypeScript
